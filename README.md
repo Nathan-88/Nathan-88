@@ -7,11 +7,21 @@ _I'm Nathan, a software engineer in training._<br>
 
 👯 I'm looking to collaborate on :
 * Any project that involves web development both front-end and back-end
-* Open-source projects that align with my interests <br>
+* Open-source projects that align with my interests
+
 🤝 I'm looking for help with:
 * Optimizing my code for better performance
-* Advising me on best practices in software development<br>
-<br>🌱 I'm currently learning:<br>- React Native for web development<br>_ python data structure and algorithms<br><br>💬 Ask me about:<br>- My experience with working with python tools <br>- My passion for learning new technologies<br>⚡ Fun fact: I have a background in engineering physics, and I'm passionate about the intersection of software and hardware.
+* Advising me on best practices in software development
+
+🌱 I'm currently learning:
+- React Native for web development
+- python data structure and algorithms
+
+💬 Ask me about:
+- My experience with working with python tools
+- My passion for learning new technologies
+
+⚡ Fun fact: I have a background in engineering physics, and I'm passionate about the intersection of software and hardware.
 
 
 ## 🌐 Socials:

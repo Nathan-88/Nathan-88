@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 <br>I'm Nathan, a software engineer in training.<br><br>🔭 I’m currently working on :<br>- Building a web application using React and Node.js<br>- Learning data structures and algorithms in Python<br><br>👯 I'm looking to collaborate on :<br>- Any project that involves web development both front-end and back-end<br>- Open-source projects that align with my interests<br><br>🤝 I'm looking for help with:<br>- Optimizing my code for better performance<br>- Advising me on best practices in software development<br><br>🌱 I'm currently learning:<br>- React Native for web development<br>_ python data structure and algorithms<br><br>💬 Ask me about:<br>- My experience with working with python tools <br>- My passion for learning new technologies<br>⚡ Fun fact: I have a background in engineering physics, and I'm passionate about the intersection of software and hardware.
 
 

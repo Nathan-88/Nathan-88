@@ -5,7 +5,7 @@ _I'm Nathan, a software engineer in training._<br>
 * Building a web application using React and Node.js
 * Learning data structures and algorithms in Python
 
-👯 I'm looking to collaborate on :
+👯 I'm looking to collaborate on : 
 * Any project that involves web development both front-end and back-end
 * Open-source projects that align with my interests
 

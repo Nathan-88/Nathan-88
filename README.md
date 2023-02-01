@@ -2,7 +2,6 @@
 ## **Welcome to my GitHub profile!** <br>
 _I'm Nathan, a software engineer in training._<br>
 🔭 I’m currently working on :
-* Building a web application using React and Node.js
 * Learning data structures and algorithms in Python
 
 👯 I'm looking to collaborate on :

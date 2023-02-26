@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## **Welcome to my GitHub profile!** <br>
-_I'm Nathan, a software engineer in training._<br>
+_I'm Nathan, a software engineer in training._ <br>
 🔭 I’m currently working on :
 * Learning data structures and algorithms in Python
 

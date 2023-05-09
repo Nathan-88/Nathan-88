@@ -13,7 +13,7 @@ _I'm Nathan, a software engineer in training._ <br>
 * Advising me on best practices in software development
 
 🌱 I'm currently learning:
-- React Native for web development
+- Django framework for web development
 - python data structure and algorithms 
 
 💬 Ask me about:

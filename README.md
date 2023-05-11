@@ -2,6 +2,7 @@
 ## **Welcome to my GitHub profile!** <br>
 _I'm Nathan, a software engineer in training._ <br>
 🔭 I’m currently working on :
+* Building web applications with python frameworks(Django, Flask)
 * Learning data structures and algorithms in Python
 
 👯 I'm looking to collaborate on :

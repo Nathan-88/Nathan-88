@@ -2,7 +2,7 @@
 ## **Welcome to my GitHub profile!** <br>
 _I'm Nathan, a software engineer in training._ <br>
 🔭 I’m currently working on :
-* Building web applications with python frameworks(Django, Flask)
+* Building web applications with Python frameworks(Flask) and Vue js
 * Learning data structures and algorithms in Python
 
 👯 I'm looking to collaborate on :
@@ -18,7 +18,7 @@ _I'm Nathan, a software engineer in training._ <br>
 - python data structure and algorithms 
 
 💬 Ask me about:
-- My experience with working with python tools
+- My experience with working with Vuejs tools
 - My passion for learning new technologies
 
 ⚡ Fun fact: I have a background in engineering physics, and I'm passionate about the intersection of software and hardware.
